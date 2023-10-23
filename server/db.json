@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "ali123",
+      "email": "mahdipeikmoosavi@gmail.com",
+      "phonenumber": "28282989292",
+      "password": "mahdi@1234",
+      "passwordConfirm": "mahdi@1234",
+      "gender": "0",
+      "nationality": "GER",
+      "intrests": [
+        "REACT"
+      ],
+      "terms": true,
+      "id": 1
+    }
+  ]
+}
